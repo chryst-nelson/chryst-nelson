@@ -60,45 +60,6 @@ I'm a passionate **Full-Stack Software Engineer** who enjoys transforming ideas 
 <img src="https://skillicons.dev/icons?i=vscode,figma,npm,yarn" />
 </p>
 
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ChrystNelson&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrystNelson&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChrystNelson&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ChrystNelson&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChrystNelson&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
 
 # 🐍 Contribution Snake
 
@@ -116,19 +77,19 @@ I'm a passionate **Full-Stack Software Engineer** who enjoys transforming ideas 
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/aka-cornelius-chigozie-489835252/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/ChrystNelson">
+<a href="https://github.com/chryst-nelson">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:chrystnelson@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://your-portfolio.com">
+<a href="https://chigolite.vercel.app/">
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
