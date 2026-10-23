@@ -89,7 +89,7 @@ I'm a passionate **Full-Stack Software Engineer** who enjoys transforming ideas 
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://chigolite.vercel.app/">
+<a href="https://chigozie-one.vercel.app/">
 <img src="https://skillicons.dev/icons?i=vercel"/>
 </a>
 
